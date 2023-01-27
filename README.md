@@ -19,10 +19,7 @@
 
 <h1 align="center">INSPIRATION</h1>
 
-https://www.youtube.com/watch?v=pz1_32WYlD8&t=2488s&ab_channel=Rex
 
-
-https://levelup.gitconnected.com/chess-python-ca4532c7f5a4
 
 
 
