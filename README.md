@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Sacha Sitbon </h1>
 
-![github_cover_banner]([https://tenor.com/view/chess-game-play-move-gif-8090199.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Freinforcement-learning-rl-what-is-it-and-how-does-it-work-1962cf6db103&psig=AOvVaw18DYjmlIhX2Hcz7OaorqB_&ust=1674899640223000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjIicK95_wCFQAAAAAdAAAAABAE))
+![github_cover_banner]([[https://tenor.com/view/chess-game-play-move-gif-8090199.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Freinforcement-learning-rl-what-is-it-and-how-does-it-work-1962cf6db103&psig=AOvVaw18DYjmlIhX2Hcz7OaorqB_&ust=1674899640223000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjIicK95_wCFQAAAAAdAAAAABAE)](https://res.cloudinary.com/dyd911kmh/image/upload/v1666973295/Q_Learning_Final_3344d28087.gif))
 
 
 
