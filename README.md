@@ -1,5 +1,5 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Sacha Sitbon </h1>
-<img align="center" alt="Coding" width"400" src="https://miro.medium.com/v2/resize:fit:824/1*af0diz6xweH1deJj7Pn0oQ.gif">
+<img align="center" alt="Coding" width"400" src="[https://miro.medium.com/v2/resize:fit:824/1*af0diz6xweH1deJj7Pn0oQ.gif](https://res.cloudinary.com/dyd911kmh/image/upload/v1666973295/Q_Learning_Final_3344d28087.gif)">
 
 
 
