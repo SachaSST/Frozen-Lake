@@ -7,67 +7,11 @@
 <h1 align="center">FROZEN LAKE</h1>
 <h3 align="center">🤖</h3>
 
-- ceci est un jeu d'echec ordinaire avec quelques specifictées : 
-
-- le jeu s'execute dans le fichier main.py
-
-- les themes sont appelés dans le fichier theme.py mais construit dans le fichier config.py
-
-- plateau : board.py
-
-- piece : piece.py
-
-- sound : sound.py
-
-- game : game.py
-
-- couleur : color.py
-
-- pouvoir redémarrer la partie en cliquant sur la touche 'esc' 
-
-- pouvoir changer de thèmes en cliquant sur la touche 'barre d'espace ' 
-
-- lorsqu'un pion atteint la derniere case celui ci se transforme en reine 
-
-- des aides sont situées comme les déplacements possible d'un pion 
-
-- des bruitages sont rajoutés pour les deplacements ou encore quand un pion a été mangé
-
-- vous pouvez roquer(Pour roquer, bougez le roi de 2 cases vers la droite pour un petit roque, 2 cases vers la gauche pour un grand roque. - ni le roi ni la tour ne doivent avoir quitter leur position initiale.)
-<h1 align="center">RULES</h1>
-<h3 align="center">📁</h3>
-
-- La Dame blanche est placée sur une case blanche tandis que la Dame noire est placée sur une case noire. 
-
-- Les blancs commencent la partie. Les deux joueurs jouent chacun leur Tour.
-
-- Le premier à réussir à bloquer le Roi de son adversaire a gagné !
-
 
 
 
 <h1 align="center">JOURNAL 📰</h1>
 
-
-
-Jour 22/10/22 :  création du fichier main et importation de toutes les bibliotheques
-
-Jour 23/10/22 : abandon de l’interface graphique donc je commence l’importation des pions et leurs mouvements 
-
-Jour 24/10/22 : création des possibilitées de mouvements 
-
-Jour 25/10/22 : je fini les mouvements 
-
-Jour 26/10/22 : création des thèmes : couleurs potentielles de l'echequier  (vert, gris, bleu , marron)
-
-Jour 27/10/22 :création de la touche pour restart la game et fin de la creation des themes 
-
-
-Jour 28/10/22 : apprentissage du reinceforcement learning 
-
-Jour 29/10/22: abandon de l’apprentissage et création de contour lorsque la souris passe sur la case 
-
-jour 30/10/22 a 31/10/22 : perfectioner le jeu comme ajout de son etc...
 
 
 
