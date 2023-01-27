@@ -1,11 +1,11 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Sacha Sitbon </h1>
 
-![github_cover_banner](https://tenor.com/view/chess-game-play-move-gif-8090199.gif)
+![github_cover_banner]([https://tenor.com/view/chess-game-play-move-gif-8090199.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Freinforcement-learning-rl-what-is-it-and-how-does-it-work-1962cf6db103&psig=AOvVaw18DYjmlIhX2Hcz7OaorqB_&ust=1674899640223000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjIicK95_wCFQAAAAAdAAAAABAE))
 
 
 
-<h1 align="center">CHAISS</h1>
-<h3 align="center">♟️</h3>
+<h1 align="center">FROZEN LAKE</h1>
+<h3 align="center">🤖</h3>
 
 - ceci est un jeu d'echec ordinaire avec quelques specifictées : 
 
