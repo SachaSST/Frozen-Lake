@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #44AEFB;"> 👨🏻‍💻 Sacha Sitbon </h1>
 
 <p align="center">
-<img width=150 src="https://res.cloudinary.com/dyd911kmh/image/upload/v1666973295/Q_Learning_Final_3344d28087.gif"/>
+<img width=500 src="https://res.cloudinary.com/dyd911kmh/image/upload/v1666973295/Q_Learning_Final_3344d28087.gif"/>
 </p>
 
 
