@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Sacha Sitbon </h1>
 
-![github_cover_banner]([[[https://tenor.com/view/chess-game-play-move-gif-8090199.gif](https://miro.medium.com/v2/resize:fit:824/1*af0diz6xweH1deJj7Pn0oQ.gif)])
+![github_cover_banner]([https://tenor.com/view/chess-game-play-move-gif-8090199.gif](https://miro.medium.com/v2/resize:fit:824/1*af0diz6xweH1deJj7Pn0oQ.gif])
 
 
 
