@@ -7,6 +7,6 @@
 
 
 <h1 align="center">FROZEN LAKE</h1>
-<h3 align="center">🤖</h3>
+In Python, 'FrozenLake' is a grid-based game where the goal is to navigate across a frozen lake while avoiding holes in the ice to reach a final destination. It is frequently used as a benchmark to illustrate Reinforcement Learning (RL), specifically the Q-learning algorithm.
 
-Un "FrozenLake" en Python est un jeu de rôle basé sur un labyrinthe où l'objectif est de naviguer à travers un lac gelé en évitant les trous d'eau pour atteindre l'objectif final. Il est souvent utilisé comme un exemple pour illustrer l'apprentissage par renforcement (RL) et plus particulièrement l'algorithme Q-learning. Dans ce jeu, l'agent (joueur) prend des décisions en déplaçant son personnage dans différentes directions (gauche, droite, haut, bas) en fonction de l'état actuel de l'environnement (position sur la grille) et de la récompense associée à cette action (atteindre l'objectif ou tomber dans un trou d'eau). L'algorithme Q-learning est utilisé pour apprendre la meilleure stratégie à adopter pour atteindre l'objectif en maximisant la récompense totale.
+In this environment, the agent (player) makes decisions by moving in different directions (left, down, right, up) based on the current state of the environment (position on the grid) and the reward associated with that action—such as reaching the goal or falling into a hole. The Q-learning algorithm is used to learn the optimal strategy to reach the objective by maximizing the total cumulative reward.
